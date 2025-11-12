@@ -9,7 +9,10 @@
 ### 11/11/25:
 * Make a new mini project imported from kaboom
 * Copy [sprite's](https://kaboomjs.com/play?example=sprite) code and replace it with bean instead of sprite
-* from this: [Sprite](../sprite.png)
+* from this: [Sprite](Sprite.png)
+* to this: [Bean](Bean.png)
+* Removed the frames because bean is not animated like sprite is so it just crashed the site
+* 
 
 
 
