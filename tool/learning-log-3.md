@@ -12,7 +12,7 @@
 * from this: [Sprite](Sprite.png)
 * to this: [Bean](Bean.png)
 * Removed the frames because bean is not animated like sprite is so it just crashed the site
-* 
+* Set animations like *idle* and *run* to 0 because [bean](ide-anims.png) is not animated like [sprite](kaboom-anims.png).
 
 
 
